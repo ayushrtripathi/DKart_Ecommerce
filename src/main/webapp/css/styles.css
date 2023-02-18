@@ -1,0 +1,14 @@
+.custom-bg{
+		
+		background-color: #f4511e!important;
+	
+}
+
+.admin .card:hover{
+	background: #e2e2e2;
+	cursor: pointer;
+}
+
+.original-price{
+	  text-decoration: line-through;
+}
